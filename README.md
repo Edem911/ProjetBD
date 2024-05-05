@@ -4,7 +4,7 @@ Ce projet est une application web construite avec Next.js, utilisant Formik pour
 
 *Installation*
 
-Cloner le repository : git clone https://github.com/votre-utilisateur/projet-xyz.git
+Cloner le repository : git clone https://github.com/Edem911/ProjetBD.git
 
 Installer les dépendances :
 Assurez-vous d'avoir Node.js installé sur votre machine. 
