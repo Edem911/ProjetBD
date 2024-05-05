@@ -1,4 +1,4 @@
-**Projet Base de Donnée Bachelor 2**
+#Projet Base de Donnée Bachelor 2#
 
 Ce projet est une application web construite avec Next.js, utilisant Formik pour la gestion des formulaires, Axios pour les requêtes HTTP, et Mongoose pour l'interaction avec une base de données MongoDB.
 
